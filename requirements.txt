@@ -1,0 +1,43 @@
+# Core LLM and Orchestration
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-openai>=0.0.5
+openai>=1.12.0
+
+# Alternative LLM providers (optional)
+anthropic>=0.18.0
+
+# Data validation and models
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Async and concurrency
+asyncio>=3.4.3
+aiofiles>=23.0.0
+
+# Logging
+structlog>=24.1.0
+python-json-logger>=2.0.7
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Retry logic
+tenacity>=8.2.3
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+
+# Type checking
+mypy>=1.5.0
+
+# Code quality
+black>=23.7.0
+flake8>=6.1.0
+isort>=5.12.0
+
+# Utilities
+rich>=13.5.0  # For better console output

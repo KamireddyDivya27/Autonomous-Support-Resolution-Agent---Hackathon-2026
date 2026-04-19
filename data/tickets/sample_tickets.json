@@ -1,0 +1,23 @@
+[
+  {
+    "ticket_id": "TKT-001",
+    "customer_email": "customer1@example.com",
+    "subject": "Request refund for order ORD-001",
+    "message": "Hi, I would like to request a refund for my laptop order ORD-001. I received it but it is not what I expected. Can you process a refund?",
+    "created_at": "2026-04-18T10:00:00"
+  },
+  {
+    "ticket_id": "TKT-002",
+    "customer_email": "customer2@example.com",
+    "subject": "Where is my order?",
+    "message": "I ordered a mouse order ORD-002 five days ago and have not received tracking information. When will it arrive?",
+    "created_at": "2026-04-18T10:15:00"
+  },
+  {
+    "ticket_id": "TKT-003",
+    "customer_email": "customer3@example.com",
+    "subject": "Can I still return my keyboard?",
+    "message": "I bought a keyboard ORD-003 about 45 days ago. Is it too late to return it? It stopped working.",
+    "created_at": "2026-04-18T10:30:00"
+  }
+]

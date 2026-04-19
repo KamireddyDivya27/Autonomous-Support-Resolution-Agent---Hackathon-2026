@@ -1,0 +1,1197 @@
+[
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:49:27.151055"
+      }
+    ],
+    "resolution_time_s": 0.0113525390625
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:50:33.599046"
+      }
+    ],
+    "resolution_time_s": 0.0010106563568115234
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:54:14.049899"
+      }
+    ],
+    "resolution_time_s": 0.0030198097229003906
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: '\"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:01:14.889432"
+      }
+    ],
+    "resolution_time_s": 0.0009989738464355469
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:03:59.814004"
+      }
+    ],
+    "resolution_time_s": 1.6400463581085205
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:04:50.126939"
+      }
+    ],
+    "resolution_time_s": 1.1514091491699219
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:06:35.589654"
+      }
+    ],
+    "resolution_time_s": 0.7898917198181152
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:10:22.123543"
+      }
+    ],
+    "resolution_time_s": 3.1627135276794434
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:15:10.188292"
+      }
+    ],
+    "resolution_time_s": 0.7468163967132568
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Venice', 'is_byok': False}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:16:12.290739"
+      }
+    ],
+    "resolution_time_s": 3.8854267597198486
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"Developer instruction is not enabled for models/gemma-3-4b-it\",\\n    \"status\": \"INVALID_ARGUMENT\"\\n  }\\n}\\n', 'provider_name': 'Google AI Studio', 'is_byok': False}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:17:10.360558"
+      }
+    ],
+    "resolution_time_s": 1.313554048538208
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for deepseek/deepseek-r1-0528:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:36.830349"
+      }
+    ],
+    "resolution_time_s": 0.7847838401794434
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for qwen/qwen3-8b:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:44.397114"
+      }
+    ],
+    "resolution_time_s": 0.8988990783691406
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "REFUND_REQUEST",
+      "urgency": "MEDIUM",
+      "confidence": 0.98,
+      "reasoning": "Customer is requesting a refund for an order",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 109,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:40.602574"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 203,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:40.806365"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "check_refund_eligibility",
+        "success": true,
+        "duration_ms": 534,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:41.341757"
+      },
+      {
+        "sequence": 4,
+        "tool_name": "issue_refund",
+        "success": true,
+        "duration_ms": 202,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:41.545517"
+      },
+      {
+        "sequence": 5,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 110,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:41.655732"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:20:26.997382"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 5-step chain for REFUND_REQUEST",
+        "confidence": 0.98,
+        "timestamp": "2026-04-19T19:20:40.492431"
+      }
+    ],
+    "resolution_time_s": 14.662386417388916
+  },
+  {
+    "ticket_id": "TKT-001",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "REFUND_REQUEST",
+      "urgency": "MEDIUM",
+      "confidence": 0.98,
+      "reasoning": "Customer is requesting a refund for an order",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 100,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:23.167155"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 222,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:23.390525"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "check_refund_eligibility",
+        "success": true,
+        "duration_ms": 472,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:23.862542"
+      },
+      {
+        "sequence": 4,
+        "tool_name": "issue_refund",
+        "success": true,
+        "duration_ms": 209,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:24.072236"
+      },
+      {
+        "sequence": 5,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 122,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:24.195116"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:46:12.412468"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 5-step chain for REFUND_REQUEST",
+        "confidence": 0.98,
+        "timestamp": "2026-04-19T19:46:23.066207"
+      }
+    ],
+    "resolution_time_s": 11.785669088363647
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:49:27.169448"
+      }
+    ],
+    "resolution_time_s": 0.0019998550415039062
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:50:33.603952"
+      }
+    ],
+    "resolution_time_s": 0.001970052719116211
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:54:14.056286"
+      }
+    ],
+    "resolution_time_s": 0.0029964447021484375
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: '\"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:01:14.894409"
+      }
+    ],
+    "resolution_time_s": 0.0029981136322021484
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:03:59.830877"
+      }
+    ],
+    "resolution_time_s": 1.9365248680114746
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:04:50.136926"
+      }
+    ],
+    "resolution_time_s": 0.8684463500976562
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:06:35.603845"
+      }
+    ],
+    "resolution_time_s": 1.022583246231079
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:10:22.220542"
+      }
+    ],
+    "resolution_time_s": 3.353721857070923
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:15:10.228289"
+      }
+    ],
+    "resolution_time_s": 0.740816593170166
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'Rate limit exceeded: limit_rpm/meta-llama/llama-3.2-3b-instruct/e8440b11-29fb-4887-a222-eff9ba33dfbf. High demand for meta-llama/llama-3.2-3b-instruct:free on OpenRouter - limited to 8 requests per minute. Please retry shortly.', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '8', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1776606420000'}, 'provider_name': None}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:16:12.301145"
+      }
+    ],
+    "resolution_time_s": 4.072025299072266
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 400 - {'error': {'message': 'Provider returned error', 'code': 400, 'metadata': {'raw': '{\\n  \"error\": {\\n    \"code\": 400,\\n    \"message\": \"Developer instruction is not enabled for models/gemma-3-4b-it\",\\n    \"status\": \"INVALID_ARGUMENT\"\\n  }\\n}\\n', 'provider_name': 'Google AI Studio', 'is_byok': False}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:17:11.679026"
+      }
+    ],
+    "resolution_time_s": 1.773458480834961
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for deepseek/deepseek-r1-0528:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:37.619145"
+      }
+    ],
+    "resolution_time_s": 0.08458685874938965
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for qwen/qwen3-8b:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:45.298845"
+      }
+    ],
+    "resolution_time_s": 0.08304619789123535
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "ORDER_STATUS",
+      "urgency": "MEDIUM",
+      "confidence": 0.98,
+      "reasoning": "Customer is inquiring about order status",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 102,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:46.045749"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 252,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:46.298828"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 111,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:46.409881"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:20:41.662727"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 3-step chain for ORDER_STATUS",
+        "confidence": 0.98,
+        "timestamp": "2026-04-19T19:20:45.943258"
+      }
+    ],
+    "resolution_time_s": 4.7511396408081055
+  },
+  {
+    "ticket_id": "TKT-002",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "ORDER_STATUS",
+      "urgency": "MEDIUM",
+      "confidence": 0.98,
+      "reasoning": "Customer is inquiring about order status",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 111,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:17.911054"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 284,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:18.196540"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 110,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:18.307501"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:46:12.432484"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 3-step chain for ORDER_STATUS",
+        "confidence": 0.98,
+        "timestamp": "2026-04-19T19:46:17.799215"
+      }
+    ],
+    "resolution_time_s": 5.877178192138672
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:49:27.172454"
+      }
+    ],
+    "resolution_time_s": 0.002997875213623047
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:50:33.607915"
+      }
+    ],
+    "resolution_time_s": 0.0029947757720947266
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Error: '\\n  \"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T18:54:14.063273"
+      }
+    ],
+    "resolution_time_s": 0.0039980411529541016
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: '\"category\"'",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:01:14.899397"
+      }
+    ],
+    "resolution_time_s": 0.003004789352416992
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:03:59.832881"
+      }
+    ],
+    "resolution_time_s": 1.6894352436065674
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:04:50.140931"
+      }
+    ],
+    "resolution_time_s": 0.6086127758026123
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo-preview` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:06:35.605846"
+      }
+    ],
+    "resolution_time_s": 1.6822724342346191
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:10:22.222543"
+      }
+    ],
+    "resolution_time_s": 2.9497194290161133
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for mistralai/mistral-7b-instruct:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:15:10.230297"
+      }
+    ],
+    "resolution_time_s": 0.7108211517333984
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'meta-llama/llama-3.2-3b-instruct:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Venice', 'is_byok': False}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:16:12.303144"
+      }
+    ],
+    "resolution_time_s": 3.7797985076904297
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'google/gemma-3-4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Google AI Studio', 'is_byok': False}}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:17:13.453478"
+      }
+    ],
+    "resolution_time_s": 3.3341498374938965
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for deepseek/deepseek-r1-0528:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:37.709741"
+      }
+    ],
+    "resolution_time_s": 0.07879376411437988
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "ESCALATED",
+    "classification": {
+      "category": "UNKNOWN",
+      "urgency": "MEDIUM",
+      "confidence": 0.3,
+      "reasoning": "Parse error: Error code: 404 - {'error': {'message': 'No endpoints found for qwen/qwen3-8b:free.', 'code': 404}, 'user_id': 'user_3Bjx6f3kX05cXtz9D0uBdlSaX9L'}",
+      "resolvable": false
+    },
+    "tool_chain": [],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:18:45.383771"
+      }
+    ],
+    "resolution_time_s": 0.08127260208129883
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "REFUND_REQUEST",
+      "urgency": "MEDIUM",
+      "confidence": 0.9,
+      "reasoning": "Customer is inquiring about returning a faulty keyboard",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 102,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:50.945484"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 174,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:51.120637"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "check_refund_eligibility",
+        "success": true,
+        "duration_ms": 501,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:51.622591"
+      },
+      {
+        "sequence": 4,
+        "tool_name": "issue_refund",
+        "success": false,
+        "duration_ms": 0,
+        "error_message": "Precondition failed for issue_refund: ['is_eligible']",
+        "timestamp": "2026-04-19T19:20:51.624590"
+      },
+      {
+        "sequence": 5,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 110,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:20:51.735178"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:20:46.415828"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 5-step chain for REFUND_REQUEST",
+        "confidence": 0.9,
+        "timestamp": "2026-04-19T19:20:50.843010"
+      }
+    ],
+    "resolution_time_s": 5.321335792541504
+  },
+  {
+    "ticket_id": "TKT-003",
+    "status": "RESOLVED",
+    "classification": {
+      "category": "REFUND_REQUEST",
+      "urgency": "MEDIUM",
+      "confidence": 0.9,
+      "reasoning": "Customer inquired about returning a faulty keyboard",
+      "resolvable": true
+    },
+    "tool_chain": [
+      {
+        "sequence": 1,
+        "tool_name": "get_customer",
+        "success": true,
+        "duration_ms": 104,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:25.336261"
+      },
+      {
+        "sequence": 2,
+        "tool_name": "get_order",
+        "success": true,
+        "duration_ms": 204,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:25.541909"
+      },
+      {
+        "sequence": 3,
+        "tool_name": "check_refund_eligibility",
+        "success": true,
+        "duration_ms": 473,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:26.016660"
+      },
+      {
+        "sequence": 4,
+        "tool_name": "issue_refund",
+        "success": false,
+        "duration_ms": 1,
+        "error_message": "Precondition failed for issue_refund: ['is_eligible']",
+        "timestamp": "2026-04-19T19:46:26.018645"
+      },
+      {
+        "sequence": 5,
+        "tool_name": "send_reply",
+        "success": true,
+        "duration_ms": 108,
+        "error_message": null,
+        "timestamp": "2026-04-19T19:46:26.127133"
+      }
+    ],
+    "decision_trace": [
+      {
+        "step": "INTAKE",
+        "reasoning": "Validated ticket data",
+        "confidence": 1.0,
+        "timestamp": "2026-04-19T19:46:12.435466"
+      },
+      {
+        "step": "PLAN",
+        "reasoning": "Planned 5-step chain for REFUND_REQUEST",
+        "confidence": 0.9,
+        "timestamp": "2026-04-19T19:46:25.230392"
+      }
+    ],
+    "resolution_time_s": 13.695581912994385
+  }
+]

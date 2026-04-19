@@ -1,0 +1,9 @@
+﻿venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+make_diagram.py
+make_arch.py
+*.png.bak
+data/audit_logs/
