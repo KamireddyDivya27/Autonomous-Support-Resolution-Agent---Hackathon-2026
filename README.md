@@ -70,5 +70,5 @@ python main.py
 Audit logs saved to `data/audit_logs/`
 
 ## Submission
-- **Author:** YOUR NAME
+- **Author:** KAMIREDDY DIVYA
 - **Hackathon:** Agentic AI Hackathon 2026 by Ksolves
